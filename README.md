@@ -1,1 +1,1 @@
-shell basics readme
+my shell variables README
